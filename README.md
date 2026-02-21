@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/drive/folders/1zBhKF9nt-wBC_S_B0yihe0l-N1x8mw38?usp=sharing" target="_blank"
+<a href="https://drive.google.com/file/d/1sNmAqZMqPtTRMH-dbg6iFi0pXPf4aqKK/view?usp=sharing"
 style="
   display:inline-block;
   background: linear-gradient(135deg,#ff7a18,#ffb347);
