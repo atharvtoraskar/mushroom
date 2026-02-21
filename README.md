@@ -8,19 +8,19 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/drive/folders/1zBhKF9nt-wBC_S_B0yihe0l-N1x8mw38?usp=sharing" target="_blank">
-  <button style="
-    background: linear-gradient(135deg,#ff7a18,#ffb347);
-    border: none;
-    padding: 14px 28px;
-    color: white;
-    font-size: 18px;
-    border-radius: 10px;
-    cursor: pointer;
-    box-shadow: 0 6px 18px rgba(0,0,0,0.2);
-    font-weight: bold;">
-    ⬇️ Download Project Files
-  </button>
+<a href="https://drive.google.com/drive/folders/1zBhKF9nt-wBC_S_B0yihe0l-N1x8mw38?usp=sharing" target="_blank"
+style="
+  display:inline-block;
+  background: linear-gradient(135deg,#ff7a18,#ffb347);
+  padding: 14px 28px;
+  color: white;
+  font-size: 18px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.2);
+">
+⬇️ Download Project Files
 </a>
 
 </div>
@@ -35,9 +35,7 @@
 The <b>Mushroom AI Classifier</b> is a deep learning-based project designed to accurately classify mushroom species using image and characteristic analysis.
 </p>
 
-<p>
-This system helps:
-</p>
+<p>This system helps:</p>
 
 <ul>
   <li>🍄 Identify edible vs non-edible mushrooms</li>
